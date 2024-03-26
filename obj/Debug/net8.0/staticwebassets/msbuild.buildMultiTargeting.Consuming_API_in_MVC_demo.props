@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Consuming_API_in_MVC_demo.props" />
+</Project>
